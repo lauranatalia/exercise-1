@@ -30,12 +30,13 @@ html {
 
 h1 {
 	font-size: 5rem;
-	color: #2D2D2D;
+	color: #393939;
 	padding-top: 10rem;
 	margin: 0;
 }
 
 h2 {
+	color: #393939;
 	padding: 3rem;
 	font-size: 2rem;
 	margin: 0;	
@@ -43,7 +44,7 @@ h2 {
 
 a, a:visited, a:hover, a:focus, a:active {
 	text-decoration: none;
-	color: #000;
+	color: #2F2F2F;
 }
 
 .btn, .btn:visited {
